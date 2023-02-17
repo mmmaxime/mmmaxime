@@ -15,7 +15,6 @@ _Here is a little bit about me_...I'm a Product enthusiast for 1+ year with expe
 //![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&show_icons=true&theme=tokyonight)
 </p>
   
-<h2 align="center">Languages Used</h2>
-<p align="center">
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)](https://github.com/mmmaxime/github-readme-stats)
-</p>
+<h2>Languages</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)](https://github.com/mmmaxime/github-readme-stats)
+
