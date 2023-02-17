@@ -9,3 +9,4 @@ _Here is a little bit about me_...I'm a Product enthusiast for 1+ year with expe
 ![linkedin](https://www.linkedin.com/in/maxime-favreau/)
 
 -->
+[![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime)](https://github.com/mmmaxime/github-readme-stats)
