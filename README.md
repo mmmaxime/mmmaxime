@@ -8,10 +8,10 @@ _Here is a little bit about me_...I'm a Product enthusiast for 1+ year with expe
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-favreau/)
 
-**Some stats for ya**
+<p style="text-align: center;">**Some stats for ya**</p>
 
 ![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&show_icons=true&theme=tokyonight)
 
 **Languages used**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)(https://github.com/mmmaxime/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)](https://github.com/mmmaxime/github-readme-stats)
