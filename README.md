@@ -30,5 +30,3 @@ Here is a little bit about me_...I'm a Product enthusiast for 1+ year with exper
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)](https://github.com/mmmaxime/github-readme-stats)
 <br>
 
-![Snake animation](https://github.com/mmmaxime/mmmaxime/blob/output/github-contribution-grid-snake.svg)
-
