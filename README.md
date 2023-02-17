@@ -1,12 +1,13 @@
 ## Hi there 👋
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliNjgyZGRkY2E3ZWQ3MjFjYzdlZDUxODBiMmUwNDY2MzRmZTdiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="700" height="500/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliNjgyZGRkY2E3ZWQ3MjFjYzdlZDUxODBiMmUwNDY2MzRmZTdiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="500/>
 
 <br>
 <br>
 <br>
 <br>
 <p align="left">
+<h4> </h4> 
 I'm Maxime and 🌱 I’m on the continuing path to learn and and improve my coding skills. 
 <br>
 <br>
