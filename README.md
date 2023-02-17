@@ -1,10 +1,10 @@
 ## Hi there 👋
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliNjgyZGRkY2E3ZWQ3MjFjYzdlZDUxODBiMmUwNDY2MzRmZTdiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="700" height="500/>
-</p>
-<br>
-<br>
 
+<br>
+<br>
+<p align="left">
 I'm Maxime and 🌱 I’m on the continuing path to learn and and improve my coding skills. 
 <br>
 <br>
