@@ -1,7 +1,9 @@
 ## Hi there 👋
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliNjgyZGRkY2E3ZWQ3MjFjYzdlZDUxODBiMmUwNDY2MzRmZTdiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="700" height="500/>
 
+<br>
+<br>
 <br>
 <br>
 <p align="left">
