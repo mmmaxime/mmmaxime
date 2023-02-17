@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliNjgyZGRkY2E3ZWQ3MjFjYzdlZDUxODBiMmUwNDY2MzRmZTdiNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="100" height="360/>
+</div>
+
+</div>
 ## Hi there 👋
 I'm Maxime and 🌱 I’m on the continuing path to learn and and improve my coding skills. 
 <br>
@@ -13,7 +18,7 @@ _Here is a little bit about me_...I'm a Product enthusiast for 1+ year with expe
 <h2> Statistics </h2>
 
 ![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&show_icons=true&theme=tokyonight)
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmmaxime&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <h2> Languages </h2>  
