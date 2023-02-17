@@ -10,8 +10,8 @@ _Here is a little bit about me_...I'm a Product enthusiast for 1+ year with expe
 
 **Some stats for ya**
 
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&show_icons=true&theme=radical)
+![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmaxime&show_icons=true&theme=tokyonight)
 
 **Languages used**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime)](https://github.com/mmmaxime/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmaxime&show_icons=true&theme=tokyonight)(https://github.com/mmmaxime/github-readme-stats)
